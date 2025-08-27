@@ -58,3 +58,5 @@ It’s a concise reference for my learning roadmap and portfolio focus.
 ### 🔗 Related Docs
 - 📊 [SWOT Analysis](./swot.md)  
 - 📝 Individual Development Plan (PDI) — *coming soon*
+
+⬅️ [Back to main profile](./README.md)
