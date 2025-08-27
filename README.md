@@ -35,22 +35,16 @@
 
 ---
 
-## 🧭 Professional Development Plan  
+## 🧭 Professional Development  
 
-### **T-Profile**  
-- **Depth:** Java, Spring Boot, Distributed Systems  
-- **Breadth:** Cloud Computing, DevOps, Microservices, Software Architecture, English Communication  
+Here I organize my career path and continuous learning strategy:  
 
-### **SWOT Analysis**  
-- **Strengths** → Consistency in learning, real-world IoT projects, Java expertise.  
-- **Weaknesses** → Advanced spoken English, limited Big Data exposure.  
-- **Opportunities** → High demand for Java + Spring engineers abroad, microservices adoption.  
-- **Threats** → Global competition, fast-paced tech evolution.  
-
-### **Career Goals**  
-- **Short-term (6 months):** Publish complete Java + Spring roadmap, consolidate LinkedIn/GitHub presence.  
-- **Mid-term (1–2 years):** Contribute to international projects.  
-- **Long-term (3–5 years):** Become a reference in distributed systems & software architecture.  
+- 📊 **[SWOT Analysis](./swot.md)** → My strengths, weaknesses, opportunities, and threats.  
+- 🧩 **[T-Profile](./t-profile.md)** → My depth in Java/Spring and breadth across Cloud, DevOps, and Architecture.  
+- 🎯 **Career Goals**  
+  - Short-term (6 months): Publish complete Java + Spring roadmap, consolidate LinkedIn/GitHub presence.  
+  - Mid-term (1–2 years): Contribute to international projects.  
+  - Long-term (3–5 years): Become a reference in distributed systems & software architecture.  
 
 ---
 
