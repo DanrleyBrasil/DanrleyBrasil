@@ -31,7 +31,6 @@
 
 - 🚀 **[IoT Portal](#)** → Energy metering and telemetry platform.  
 - 🛠️ **[E-commerce for Electronics](#)** → Microservices-based study with Spring Boot + Angular.  
-- 📊 **[Practical Case: Java Roadmap](#)** → Educational content series covering Java + Spring ecosystem.  
 
 ---
 
