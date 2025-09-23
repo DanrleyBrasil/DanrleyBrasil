@@ -27,11 +27,22 @@
 
 ---
 
+## 💼 Professional Experience (Highlights)  
+
+- **Fockink, Electrical Industries** – Software Development Analyst (2022 – Present)  
+  - Built back-end systems with Java 11+, Spring Boot, SQL Server for thermometry solutions (25+ clients).  
+  - Enhanced irrigation system with Java 8 + Swing (150+ clients).  
+  - Streamlined manufacturing workflows with Oracle + Swing.  
+  - **[More details](./experience/fockink.md)**  
+
 ## 📌 Featured Projects  
 
-- 🚀 **[IoT Portal](#)** → Energy metering and telemetry platform.  
-- 🛠️ **[E-commerce for Electronics](#)** → Microservices-based study with Spring Boot + Angular.  
-
+- 🚀 **[IoT Portal](./projects/iot-portal.md)** – Energy metering & telemetry platform  
+  - Java 21, Spring Boot, Angular, MySQL, MQTT  
+  - Reduced legacy request time from 1m15s → 20s  
+- 🛒 **[E-commerce for Electronics](./projects/ecommerce.md)** – Study project with microservices  
+  - Java 21, Spring Boot, Angular, RabbitMQ, Docker, Kubernetes  
+  - Authentication with OAuth2 + JWT HttpOnly cookies  
 ---
 
 ## 🧭 Professional Development  
