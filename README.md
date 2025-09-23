@@ -41,7 +41,7 @@ Here I organize my career path and continuous learning strategy:
 - 📊 **[SWOT Analysis](./swot.md)** → My strengths, weaknesses, opportunities, and threats.  
 - 🧩 **[T-Profile](./t-profile.md)** → My depth in Java/Spring and breadth across Cloud, DevOps, and Architecture.  
 - 🎯 **Career Goals**  
-  - Short-term (6 months): Publish complete Java + Spring roadmap, consolidate LinkedIn/GitHub presence.  
+  - Short-term (6 months): Publish complete Java + Spring project (e-commerce), consolidate LinkedIn/GitHub presence.  
   - Mid-term (1–2 years): Contribute to international projects.  
   - Long-term (3–5 years): Become a reference in distributed systems & software architecture.  
 
